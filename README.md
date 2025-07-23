@@ -48,7 +48,7 @@ Este repositório representa um **modelo de estrutura de pastas** para projetos 
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
    cd seu-repositorio
-````
+   ````
 
 2. Crie um ambiente virtual:
 
