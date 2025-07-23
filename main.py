@@ -1,5 +1,5 @@
 from src.utils.logger import LoggerConfig   
-
+from src.utils.config import TESTE
 
 def run():
     try:

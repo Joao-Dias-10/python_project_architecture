@@ -25,10 +25,9 @@ Este repositório representa um **modelo de estrutura de pastas** para projetos 
 │   ├── preprocessing/ # Pré-processamento e transformação de dados
 │   └── utils/        # Funções utilitárias
 ├── tests/            # Testes unitários e de integração
-├── .env              # Variáveis de ambiente (não versionar)
-├── .env.example      # Exemplo de variáveis de ambiente
 ├── .gitignore        # Padrões de arquivos ignorados pelo Git
 ├── main.py           # Ponto de entrada do projeto
+├── requirements.txt          
 
 ````
 
